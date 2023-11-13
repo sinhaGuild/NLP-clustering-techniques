@@ -31,7 +31,7 @@ Kmeans algorithm is an iterative algorithm that tries to partition the dataset i
 
 ![Alt text](./img/image.png)
 
-![k-means g./img/raph](network_graph_408371943723811136.png)
+![k-means graph](./img/network_graph_408371943723811136.png)
 
 
 # DBSCAN
